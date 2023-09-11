@@ -2,15 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekholil&label=Profile%20views&color=0e75b6&style=flat" alt="ekholil" /> </p>
 
-- 🌱 I’m currently learning **React, Express, Node, Mongodb, NextJS, Redux etc.**
+- ✨ Passionate Javascript developer at Softivus. 
 
-- 👯 I’m looking to collaborate on **MERN**
+- 🌱 I’m currently learning **PostgreSQL, Prisma, CI/CD, GraphQLetc.**
 
-- 🤝 I’m looking for help with **MERN**
+- 👨‍💻 All of my projects are available at [https://github.com/ikholil?tab=repositories](https://github.com/ikholil?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ekholil?tab=repositories](https://github.com/ekholil?tab=repositories)
-
-- 💬 Ask me about **Javascript, React, Firebase**
+- 💬 Ask me about **Javascript, React, Typescript, Prisma, Nextjs, Nuxtjs, Redux**
 
 - 📫 How to reach me **ikholil.bd@gmail.com**
 
