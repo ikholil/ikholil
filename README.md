@@ -4,7 +4,7 @@
 
 - ✨ Passionate Javascript developer at Softivus. 
 
-- 🌱 I’m currently learning **PostgreSQL, Prisma, CI/CD, GraphQLetc.**
+- 🌱 I’m currently Working on **NextJS, Angular, Vuejs, etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ikholil?tab=repositories](https://github.com/ikholil?tab=repositories)
 
